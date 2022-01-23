@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<head><title>Habits</title></head>
+<body>
+<header>
+<a href="file:///C:/Users/melan/Desktop/trying%20to%20make%20a%20website/index.html.html">
+<img src="logo.jpg" alt"Cant load image">
+</header>
+<hr>
+<nav>
+<table cellspacing="5"	cellpadding="5">
+<tr>
+<td><a href="file:///C:/Users/melan/Desktop/trying%20to%20make%20a%20website/Home.html.html">Home</a></td>
+<td><a href="file:///C:/Users/melan/Desktop/trying%20to%20make%20a%20website/Artical.html.html">Artical</a></td>
+<td><a href="file:///C:/Users/melan/Desktop/trying%20to%20make%20a%20website/Habits.html.html">Habits</a></td>
+<td><a href="file:///C:/Users/melan/Desktop/trying%20to%20make%20a%20website/Skills.html">Skills</a></td>
+<td><a href="file:///C:/Users/melan/Desktop/trying%20to%20make%20a%20website/Quotes.html">Quotes</a></td>
+<td><a href="file:///C:/Users/melan/Desktop/trying%20to%20make%20a%20website/Books.html">Books</a></td>
+</tr>
+</nav>
+</body>
